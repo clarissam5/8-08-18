@@ -5,8 +5,6 @@ public class AnotherBank {
 	private static String name[] = {"Anna", "Chrissy","Cooper", "John"};
 	private static double balance[] = {1200.00, 1435.12, 2000.00, 30000.02}; 
 	
-	//constructors
-	//default
 	
 	public static void main(String args[]) {
 		
